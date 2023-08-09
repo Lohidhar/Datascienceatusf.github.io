@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Meet My Team - Data Science Club at USF</title>
+    <!-- Include your CSS and other meta tags if needed -->
+</head>
+<body>
+    <div id="wrapper" class="fade-in">
+        <!-- Header -->
+        <header id="header">
+            <a href="index.html" class="logo">Data Science Club at USF</a>
+        </header>
+        <!-- Main content of the team page -->
+        <div id="main">
+            <article>
+                <header class="major">
+                    <h2>Meet My Team</h2>
+                </header>
+                <section>
+                    <!-- Add team member details as per the previous example -->
+                </section>
+                <!-- Add more team members' sections as needed -->
+            </article>
+        </div>
+        <!-- Footer -->
+        <footer id="footer">
+            <!-- Add footer content if needed -->
+        </footer>
+    </div>
+    <!-- Include your JavaScript files if needed -->
+</body>
+</html>
